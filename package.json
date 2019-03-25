@@ -1,0 +1,23 @@
+{
+  "name": "eslint-formatter-json-relative",
+  "version": "0.1.0",
+  "description": "ESlint JSON formatter, but with relative paths",
+  "main": "json-relative.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philsch/eslint-formatter-json-relative.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-formatter",
+    "eslintformatter"
+  ],
+  "author": "Philipp Schmiedel <mail@philippschmiedel.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philsch/eslint-formatter-json-relative/issues"
+  },
+  "homepage": "https://github.com/philsch/eslint-formatter-json-relative#readme"
+}
